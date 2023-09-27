@@ -32,7 +32,7 @@ app.get("/", (req, res) => {
 
 
 // Using Error Middleware
-app.use(errorMiddleWare)
+app.use(errorMiddleware)
 
 
 
